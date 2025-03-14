@@ -1,6 +1,6 @@
 #**MY PROFILE**#
 
-Me chamo Maria Eduarda, tenho 18 anos e entrei no ramo de TI janeiro 2024. Acabei o ensino médio em 2023 e adentrei no curso técnico em DS(desenvolvimento de sistemas) no SENAI, atualmente moro em Salvador/BA. Falo português fluênte e inglês intermediário(com certificado de proeficiencia pelo TOEIC). Tenho dominio da linguagem C e estou aprendendo Java, pretendo fazer faculdade em Ánalise e desenvolvimento de sistemas e me especializar em InteligÊncia Artificial.
+Me chamo Maria Eduarda, tenho 19 anos e entrei no ramo de TI janeiro 2024. Acabei o ensino médio em 2023 e adentrei no Superior de Ánalise e Desenvolvimento de Sistemas, no IFBA Salvador, atualmente moro em Salvador/BA. Falo português fluênte e inglês intermediário(com certificado de proeficiencia pelo TOEIC). Tenho dominio da linguagem C e estou aprendendo Java, pretendo  me especializar em Inteligência Artificial.
 As soft skills que eu possuo são:
 - Habilidade de liderança;
 - Comunicação;
